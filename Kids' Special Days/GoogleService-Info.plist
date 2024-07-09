@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDwLLne0k215Qy1MbE9DRXMEOz363nwozY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>416498882185</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fieldhousestudio.Kids--Special-Days</string>
+	<key>PROJECT_ID</key>
+	<string>kidsspecialdaysapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kidsspecialdaysapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:416498882185:ios:56c482fd3113490f4e9858</string>
+</dict>
+</plist>
